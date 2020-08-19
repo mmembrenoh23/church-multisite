@@ -5,4 +5,4 @@ This is a multisite created with WordPress last version. The idea is a site that
 ## REQUIREMENTS
 - XAMPP or WAMP last version
 - Configure the database user
-- Add database and add the credentials
+- Add database and add the credentials database to config file
