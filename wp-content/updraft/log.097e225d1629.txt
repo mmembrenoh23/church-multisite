@@ -1,0 +1,309 @@
+0000.001 (0) Opened log file at time: Tue, 25 Aug 2020 02:52:02 +0000 on http://localhost:82/church-multisite/
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.5 PHP: 7.4.5 (apache2handler, Windows NT MMEMBRENO-LP 10.0 build 18363 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: en_US Server: Apache/2.4.35 (Win64) OpenSSL/1.1.1e PHP/7.4.5 safe_mode: 0 max_execution_time: 900 memory_limit: 5000M (used: 4.4M | 2M) multisite: Y (sub-folder) openssl: OpenSSL 1.1.1e  17 Mar 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 62930.9 MB
+0000.019 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.024 (0) Semaphore (fd, wp_options) being initialised
+0000.038 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.054 (0) Set semaphore last lock (fd) time to 2020-08-25 02:52:02
+0000.057 (0) Semaphore lock (fd) complete
+0000.071 (0) Backup run: resumption=0, nonce=097e225d1629, file_nonce=097e225d1629 begun at=1598323922 (0s ago), job type=backup
+0000.078 (0) Scheduling a resumption (1) after 300 seconds (1598324222) in case this run gets aborted
+0000.122 (0) Checking if we have a zip executable available
+0000.130 (0) Creation of backups of directories: beginning
+0000.151 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.888 (0) Total entities for the zip file: 536 directories, 3164 files (0 skipped as non-modified), 41.3 MB
+0003.140 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 32 (32) files added so far); re-opening (prior size: 0 KB)
+0006.135 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 62 (94) files added so far); re-opening (prior size: 184.3 KB)
+0006.641 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 100 files added (on-disk size: 483.7 KB)
+0009.357 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 62 (156) files added so far); re-opening (prior size: 483.7 KB)
+0012.452 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 16 (172) files added so far); re-opening (prior size: 1073.6 KB)
+0013.657 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 200 files added (on-disk size: 1113 KB)
+0015.152 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 60 (232) files added so far); re-opening (prior size: 1113 KB)
+0017.581 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 300 files added (on-disk size: 1233.2 KB)
+0018.225 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 73 (305) files added so far); re-opening (prior size: 1233.2 KB)
+0021.160 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 46 (351) files added so far); re-opening (prior size: 1596.9 KB)
+0023.086 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 400 files added (on-disk size: 1728.8 KB)
+0024.134 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 83 (434) files added so far); re-opening (prior size: 1728.8 KB)
+0026.389 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 500 files added (on-disk size: 1835.3 KB)
+0027.171 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 92 (526) files added so far); re-opening (prior size: 1835.3 KB)
+0030.004 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 600 files added (on-disk size: 2025.5 KB)
+0030.145 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 79 (605) files added so far); re-opening (prior size: 2025.5 KB)
+0033.180 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 51 (656) files added so far); re-opening (prior size: 2144.2 KB)
+0035.147 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 700 files added (on-disk size: 2322 KB)
+0036.139 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 72 (728) files added so far); re-opening (prior size: 2322 KB)
+0038.991 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 800 files added (on-disk size: 2419.8 KB)
+0039.145 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 75 (803) files added so far); re-opening (prior size: 2419.8 KB)
+0042.231 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 76 (879) files added so far); re-opening (prior size: 2524.6 KB)
+0043.465 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 900 files added (on-disk size: 2584.2 KB)
+0045.140 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 68 (947) files added so far); re-opening (prior size: 2584.2 KB)
+0046.674 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1000 files added (on-disk size: 2646.1 KB)
+0048.169 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 120 (1067) files added so far); re-opening (prior size: 2646.1 KB)
+0049.910 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1100 files added (on-disk size: 2750.8 KB)
+0051.143 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 69 (1136) files added so far); re-opening (prior size: 2750.8 KB)
+0054.047 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1200 files added (on-disk size: 2866.7 KB)
+0054.145 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 68 (1204) files added so far); re-opening (prior size: 2866.7 KB)
+0057.141 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 74 (1278) files added so far); re-opening (prior size: 2945.3 KB)
+0058.259 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1300 files added (on-disk size: 3067.5 KB)
+0060.173 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 69 (1347) files added so far); re-opening (prior size: 3067.5 KB)
+0061.538 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1400 files added (on-disk size: 3388.1 KB)
+0062.216 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1500 files added (on-disk size: 3388.1 KB)
+0063.137 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.3 MB, 252 (1599) files added so far); re-opening (prior size: 3388.1 KB)
+0063.836 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1600 files added (on-disk size: 7085.6 KB)
+0064.853 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1700 files added (on-disk size: 7085.6 KB)
+0064.943 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1800 files added (on-disk size: 7085.6 KB)
+0065.049 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 1900 files added (on-disk size: 7085.6 KB)
+0065.190 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2000 files added (on-disk size: 7085.6 KB)
+0065.329 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.7 MB, 3164 files batched, 501 (2100) added so far); re-opening (prior size: 7085.6 KB)
+0068.459 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2100 files added (on-disk size: 11713.6 KB)
+0068.624 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2200 files added (on-disk size: 11713.6 KB)
+0068.701 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2300 files added (on-disk size: 11713.6 KB)
+0068.843 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2400 files added (on-disk size: 11713.6 KB)
+0068.955 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2500 files added (on-disk size: 11713.6 KB)
+0069.069 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2600 files added (on-disk size: 11713.6 KB)
+0069.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 3164 files batched, 501 (2601) added so far); re-opening (prior size: 11713.6 KB)
+0070.222 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2700 files added (on-disk size: 12637.9 KB)
+0070.748 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2800 files added (on-disk size: 12637.9 KB)
+0072.155 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 264 (2865) files added so far); re-opening (prior size: 12637.9 KB)
+0074.609 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 2900 files added (on-disk size: 13071 KB)
+0075.230 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 41 (2906) files added so far); re-opening (prior size: 13071 KB)
+0078.233 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 16 (2922) files added so far); re-opening (prior size: 13409.2 KB)
+0081.220 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 26 (2948) files added so far); re-opening (prior size: 13451.8 KB)
+0083.112 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 3000 files added (on-disk size: 13498.2 KB)
+0084.135 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.3 MB, 86 (3034) files added so far); re-opening (prior size: 13498.2 KB)
+0086.633 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip.tmp: 3100 files added (on-disk size: 13608.5 KB)
+0087.231 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 90 (3124) files added so far); re-opening (prior size: 13608.5 KB)
+0090.480 (0) Created plugins zip (0) - 14289 KB in 90.3 s (158.2 KB/s) (sha1: 126236cef7e5386b452c3c8871f8d1e995c76dae, sha256: fa0460541e6f93daf3f9eca4e9a35da736fe7450cc22dd9078878491f8145328)
+0090.490 (0) Beginning creation of dump of themes (split every: 400 MB)
+0090.801 (0) Total entities for the zip file: 63 directories, 279 files (0 skipped as non-modified), 6.3 MB
+0093.186 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 70 (70) files added so far); re-opening (prior size: 0 KB)
+0094.800 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-themes.zip.tmp: 100 files added (on-disk size: 1367.1 KB)
+0096.148 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 91 (161) files added so far); re-opening (prior size: 1367.1 KB)
+0097.533 (0) Zip: backup_2020-08-25-0252_Churchs_097e225d1629-themes.zip.tmp: 200 files added (on-disk size: 1745 KB)
+0099.159 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 75 (236) files added so far); re-opening (prior size: 1745 KB)
+0102.157 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 42 (278) files added so far); re-opening (prior size: 3214.4 KB)
+0102.675 (0) Created themes zip (0) - 3524.7 KB in 12.2 s (289.4 KB/s) (sha1: 00537620eaddd8e31b9c702020dc1563f4fa966f, sha256: c380229ddc85d44db2c40a40488110d567354b8719f9b5836de77c4f2e86e922)
+0102.686 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0102.689 (0) Looking for candidates to backup in: C:\laragon\www\church-multisite/wp-content/uploads
+0102.693 (0) finding files: 2020: adding to list (1)
+0102.696 (0) finding files: download-manager-files: adding to list (2)
+0102.703 (0) finding files: sites: adding to list (3)
+0102.707 (0) finding files: ur-logs: adding to list (4)
+0102.710 (0) finding files: wp-staging: adding to list (5)
+0102.714 (0) finding files: wpdm-cache: adding to list (6)
+0102.719 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0102.809 (0) Total entities for the zip file: 12 directories, 86 files (0 skipped as non-modified), 7.7 MB
+0104.265 (0) Created uploads zip (0) - 7941.7 KB in 1.5 s (5235.7 KB/s) (sha1: 87cb26aa319d80961c136cfecb4a6f0801f0f5b0, sha256: 6d6b7082819452365d205301295be763b080ef97fbdf110c6440c3a00cc363e6)
+0104.276 (0) Beginning backup of other directories found in the content directory (index: 0)
+0104.280 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0104.284 (0) Looking for candidates to backup in: C:\laragon\www\church-multisite/wp-content
+0104.288 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0104.291 (0) finding files: index.php: adding to list (1)
+0104.295 (0) finding files: mu-plugins: adding to list (2)
+0104.298 (0) finding files: plugins: skipping: this is the plugins directory
+0104.302 (0) finding files: themes: skipping: this is the themes directory
+0104.306 (0) finding files: updraft: skipping: this is the updraft directory
+0104.310 (0) finding files: upgrade: skipping: excluded by options
+0104.313 (0) finding files: uploads: skipping: this is the uploads directory
+0104.317 (0) finding files: wpdm-assets: adding to list (3)
+0104.321 (0) finding files: wpvividbackups: skipping: excluded by options (glob)
+0104.335 (0) Total entities for the zip file: 3 directories, 1 files (0 skipped as non-modified), 0 MB
+0104.417 (0) Created others zip (0) - 0.5 KB in 0.1 s (5.2 KB/s) (sha1: ca41dc26b7fd45d2e1c007e2ec0553542602c77f, sha256: e81979cc3bd2aeb9fd75b0cc2b20024dbffaf6f1223330ef1e990fb5264fcf5a)
+0104.436 (0) Saving backup status to database (elements: 8)
+0104.443 (0) Beginning creation of database dump (WordPress DB)
+0104.473 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0105.486 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1254 bytes total)
+0105.554 (0) Binary mysqldump: error (code: 2)
+0106.457 (0) Table wp_options: Total expected rows (approximate): 233
+0106.526 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 234 in 0.07 seconds
+0106.544 (0) Table wp_options: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_options.table.gz - 163.8 KB)
+0106.573 (0) Table wp_site: Total expected rows (approximate): 2
+0106.578 (0) Table wp_site: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0106.593 (0) Table wp_site: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_site.table.gz - 0.4 KB)
+0106.609 (0) Table wp_blogs: Total expected rows (approximate): 2
+0106.615 (0) Table wp_blogs: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0106.637 (0) Table wp_blogs: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_blogs.table.gz - 0.6 KB)
+0106.655 (0) Table wp_users: Total expected rows (approximate): 6
+0106.662 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 6 in 0.00 seconds
+0106.684 (0) Table wp_users: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_users.table.gz - 0.9 KB)
+0106.700 (0) Table wp_usermeta: Total expected rows (approximate): 120
+0106.708 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 120 in 0.00 seconds
+0106.727 (0) Table wp_usermeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_usermeta.table.gz - 2 KB)
+0106.744 (0) Table wp_blogmeta: Total expected rows (approximate): 0
+0106.749 (0) Table wp_blogmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0106.786 (0) Table wp_blogmeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_blogmeta.table.gz - 0.4 KB)
+0106.805 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0106.811 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0106.846 (0) Table wp_commentmeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0106.861 (0) Table wp_comments: Total expected rows (approximate): 1
+0106.869 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0106.882 (0) Table wp_comments: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_comments.table.gz - 0.7 KB)
+0106.911 (0) Table wp_links: Total expected rows (approximate): 0
+0106.916 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0106.971 (0) Table wp_links: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_links.table.gz - 0.4 KB)
+0106.987 (0) Table wp_postmeta: Total expected rows (approximate): 116
+0106.996 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 116 in 0.01 seconds
+0107.017 (0) Table wp_postmeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_postmeta.table.gz - 4.6 KB)
+0107.032 (0) Table wp_posts: Total expected rows (approximate): 41
+0107.045 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 44 in 0.01 seconds
+0107.059 (0) Table wp_posts: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_posts.table.gz - 6.8 KB)
+0107.123 (0) Table wp_registration_log: Total expected rows (approximate): 4
+0107.129 (0) Table wp_registration_log: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0107.144 (0) Table wp_registration_log: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_registration_log.table.gz - 0.5 KB)
+0107.161 (0) Table wp_signups: Total expected rows (approximate): 2
+0107.167 (0) Table wp_signups: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0107.206 (0) Table wp_signups: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_signups.table.gz - 0.7 KB)
+0107.216 (0) Table wp_sitemeta: Total expected rows (approximate): 70
+0107.226 (0) Table wp_sitemeta: Rows added in this batch (start page: 0; next: finished): 69 in 0.01 seconds
+0107.259 (0) Table wp_sitemeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_sitemeta.table.gz - 8.7 KB)
+0107.279 (0) Table wp_term_relationships: Total expected rows (approximate): 5
+0107.284 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0107.301 (0) Table wp_term_relationships: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0107.319 (0) Table wp_term_taxonomy: Total expected rows (approximate): 0
+0107.325 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0107.337 (0) Table wp_term_taxonomy: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0107.357 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0107.362 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.384 (0) Table wp_termmeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_termmeta.table.gz - 0.4 KB)
+0107.401 (0) Table wp_terms: Total expected rows (approximate): 0
+0107.407 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0107.420 (0) Table wp_terms: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_terms.table.gz - 0.4 KB)
+0107.438 (0) Table wp_6_commentmeta: Total expected rows (approximate): 0
+0107.444 (0) Table wp_6_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.459 (0) Table wp_6_commentmeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_commentmeta.table.gz - 0.4 KB)
+0107.476 (0) Table wp_6_comments: Total expected rows (approximate): 0
+0107.483 (0) Table wp_6_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0107.499 (0) Table wp_6_comments: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_comments.table.gz - 0.7 KB)
+0107.520 (0) Table wp_6_duplicator_packages: Total expected rows (approximate): 0
+0107.525 (0) Table wp_6_duplicator_packages: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.540 (0) Table wp_6_duplicator_packages: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_duplicator_packages.table.gz - 0.4 KB)
+0107.574 (0) Table wp_6_links: Total expected rows (approximate): 0
+0107.579 (0) Table wp_6_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.605 (0) Table wp_6_links: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_links.table.gz - 0.4 KB)
+0107.625 (0) Table wp_6_options: Total expected rows (approximate): 177
+0107.715 (0) Table wp_6_options: Rows added in this batch (start page: 0; next: finished): 180 in 0.08 seconds
+0107.749 (0) Table wp_6_options: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_options.table.gz - 159.2 KB)
+0107.766 (0) Table wp_6_postmeta: Total expected rows (approximate): 173
+0107.778 (0) Table wp_6_postmeta: Rows added in this batch (start page: 0; next: finished): 173 in 0.01 seconds
+0107.794 (0) Table wp_6_postmeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_postmeta.table.gz - 7.3 KB)
+0107.813 (0) Table wp_6_posts: Total expected rows (approximate): 54
+0107.829 (0) Table wp_6_posts: Rows added in this batch (start page: 0; next: finished): 54 in 0.01 seconds
+0107.844 (0) Table wp_6_posts: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_posts.table.gz - 5.8 KB)
+0107.862 (0) Table wp_6_term_relationships: Total expected rows (approximate): 5
+0107.867 (0) Table wp_6_term_relationships: Rows added in this batch (start page: 0; next: finished): 4 in 0.00 seconds
+0107.881 (0) Table wp_6_term_relationships: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_term_relationships.table.gz - 0.4 KB)
+0107.899 (0) Table wp_6_term_taxonomy: Total expected rows (approximate): 0
+0107.905 (0) Table wp_6_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0107.918 (0) Table wp_6_term_taxonomy: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_term_taxonomy.table.gz - 0.4 KB)
+0107.936 (0) Table wp_6_termmeta: Total expected rows (approximate): 0
+0107.941 (0) Table wp_6_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0107.955 (0) Table wp_6_termmeta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_termmeta.table.gz - 0.4 KB)
+0107.982 (0) Table wp_6_terms: Total expected rows (approximate): 0
+0107.989 (0) Table wp_6_terms: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0108.006 (0) Table wp_6_terms: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_terms.table.gz - 0.4 KB)
+0108.049 (0) Table wp_6_user_registration_sessions: Total expected rows (approximate): 0
+0108.054 (0) Table wp_6_user_registration_sessions: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.068 (0) Table wp_6_user_registration_sessions: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_user_registration_sessions.table.gz - 0.4 KB)
+0108.099 (0) Table wp_6_wpforms_tasks_meta: Total expected rows (approximate): 0
+0108.105 (0) Table wp_6_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.120 (0) Table wp_6_wpforms_tasks_meta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_wpforms_tasks_meta.table.gz - 0.3 KB)
+0108.151 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 4
+0108.157 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 4 in 0.00 seconds
+0108.174 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_actions.table.gz - 0.9 KB)
+0108.207 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0108.212 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.226 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0108.280 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0108.288 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0108.303 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0108.332 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 10
+0108.338 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 11 in 0.00 seconds
+0108.353 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_logs.table.gz - 0.6 KB)
+0108.370 (0) Table wp_ahm_assets: Total expected rows (approximate): 0
+0108.376 (0) Table wp_ahm_assets: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.391 (0) Table wp_ahm_assets: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_ahm_assets.table.gz - 0.3 KB)
+0108.408 (0) Table wp_ahm_download_stats: Total expected rows (approximate): 0
+0108.414 (0) Table wp_ahm_download_stats: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.428 (0) Table wp_ahm_download_stats: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_ahm_download_stats.table.gz - 0.3 KB)
+0108.449 (0) Table wp_ahm_emails: Total expected rows (approximate): 0
+0108.454 (0) Table wp_ahm_emails: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.467 (0) Table wp_ahm_emails: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_ahm_emails.table.gz - 0.3 KB)
+0108.484 (0) Table wp_user_registration_sessions: Total expected rows (approximate): 0
+0108.489 (0) Table wp_user_registration_sessions: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0108.507 (0) Table wp_user_registration_sessions: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_user_registration_sessions.table.gz - 0.4 KB)
+0108.534 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 2
+0108.540 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0108.553 (0) Table wp_wpforms_tasks_meta: finishing file (backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_wpforms_tasks_meta.table.gz - 0.5 KB)
+0108.563 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_options.table.gz (1/40): adding to final database dump
+0108.648 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_site.table.gz (2/40): adding to final database dump
+0108.653 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_blogs.table.gz (3/40): adding to final database dump
+0108.658 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_users.table.gz (4/40): adding to final database dump
+0108.662 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_usermeta.table.gz (5/40): adding to final database dump
+0108.666 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_blogmeta.table.gz (6/40): adding to final database dump
+0108.671 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_commentmeta.table.gz (7/40): adding to final database dump
+0108.675 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_comments.table.gz (8/40): adding to final database dump
+0108.680 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_links.table.gz (9/40): adding to final database dump
+0108.684 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_postmeta.table.gz (10/40): adding to final database dump
+0108.690 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_posts.table.gz (11/40): adding to final database dump
+0108.698 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_registration_log.table.gz (12/40): adding to final database dump
+0108.702 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_signups.table.gz (13/40): adding to final database dump
+0108.706 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_sitemeta.table.gz (14/40): adding to final database dump
+0108.713 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_term_relationships.table.gz (15/40): adding to final database dump
+0108.719 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_term_taxonomy.table.gz (16/40): adding to final database dump
+0108.724 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_termmeta.table.gz (17/40): adding to final database dump
+0108.728 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_terms.table.gz (18/40): adding to final database dump
+0108.733 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_commentmeta.table.gz (19/40): adding to final database dump
+0108.737 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_comments.table.gz (20/40): adding to final database dump
+0108.741 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_duplicator_packages.table.gz (21/40): adding to final database dump
+0108.745 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_links.table.gz (22/40): adding to final database dump
+0108.749 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_options.table.gz (23/40): adding to final database dump
+0108.855 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_postmeta.table.gz (24/40): adding to final database dump
+0108.867 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_posts.table.gz (25/40): adding to final database dump
+0108.873 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_term_relationships.table.gz (26/40): adding to final database dump
+0108.877 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_term_taxonomy.table.gz (27/40): adding to final database dump
+0108.881 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_termmeta.table.gz (28/40): adding to final database dump
+0108.885 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_terms.table.gz (29/40): adding to final database dump
+0108.890 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_user_registration_sessions.table.gz (30/40): adding to final database dump
+0108.894 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_6_wpforms_tasks_meta.table.gz (31/40): adding to final database dump
+0108.898 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_actions.table.gz (32/40): adding to final database dump
+0108.902 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_claims.table.gz (33/40): adding to final database dump
+0108.906 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_groups.table.gz (34/40): adding to final database dump
+0108.910 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_actionscheduler_logs.table.gz (35/40): adding to final database dump
+0108.914 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_ahm_assets.table.gz (36/40): adding to final database dump
+0108.917 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_ahm_download_stats.table.gz (37/40): adding to final database dump
+0108.922 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_ahm_emails.table.gz (38/40): adding to final database dump
+0108.925 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_user_registration_sessions.table.gz (39/40): adding to final database dump
+0108.929 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db-table-wp_wpforms_tasks_meta.table.gz (40/40): adding to final database dump
+0108.992 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db.gz: finished writing out complete database file (344 KB)
+0109.151 (0) Total database tables backed up: 40 (backup_2020-08-25-0252_Churchs_097e225d1629-db.gz, size: 370314, sha1: 65a43b90b7f09aac9051eade01808703bb973d02, sha256: ad7e135a75b18848c87e2ff1106284bf230667cee1197fff7f1bf48f7550db1e)
+0109.169 (0) backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0109.173 (0) backup_2020-08-25-0252_Churchs_097e225d1629-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0109.177 (0) backup_2020-08-25-0252_Churchs_097e225d1629-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0109.181 (0) backup_2020-08-25-0252_Churchs_097e225d1629-others.zip: others: This file has not yet been successfully uploaded: will queue
+0109.185 (0) backup_2020-08-25-0252_Churchs_097e225d1629-db.gz: db: This file has not yet been successfully uploaded: will queue
+0109.189 (0) Saving backup history. Total backup size: 25.5 MB
+0109.197 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0109.210 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0109.213 (0) No remote despatch: user chose no remote backup service
+0109.217 (0) Recording as successfully uploaded: backup_2020-08-25-0252_Churchs_097e225d1629-plugins.zip
+0109.225 (0) Recording as successfully uploaded: backup_2020-08-25-0252_Churchs_097e225d1629-themes.zip
+0109.233 (0) Recording as successfully uploaded: backup_2020-08-25-0252_Churchs_097e225d1629-uploads.zip
+0109.242 (0) Recording as successfully uploaded: backup_2020-08-25-0252_Churchs_097e225d1629-others.zip
+0109.250 (0) Recording as successfully uploaded: backup_2020-08-25-0252_Churchs_097e225d1629-db.gz
+0109.263 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0109.267 (0) Number of backup sets in history: 1; groups (db): 1
+0109.274 (0) Examining (for databases) backup set with group_id=0, nonce=097e225d1629, datestamp=1598323922 (Aug 25 2020 02:52:02)
+0109.278 (0) This backup set is the backup set just made, so will not be deleted.
+0109.278 (0) Number of backup sets in history: 1; groups (files): 1
+0109.281 (0) Examining (for files) backup set with nonce=097e225d1629, datestamp=1598323922 (Aug 25 2020 02:52:02)
+0109.281 (0) This backup set is the backup set just made, so will not be deleted.
+0109.285 (0) This backup set is the backup set just made, so will not be deleted.
+0109.285 (0) This backup set is the backup set just made, so will not be deleted.
+0109.285 (0) This backup set is the backup set just made, so will not be deleted.
+0109.286 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0109.289 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0109.298 (0) Resume backup (097e225d1629, 0): finish run
+0109.308 (0) Decremented the semaphore (fd) by 1
+0109.315 (0) Semaphore (fd) unlocked
+0109.319 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0109.332 (0) No email will/can be sent - the user has not configured an email address.
+0109.336 (0) The backup apparently succeeded and is now complete
